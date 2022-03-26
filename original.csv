@@ -1,0 +1,6 @@
+{"type": "forge:ore_dict","ore": "nuggetGold"}
+{"type": "forge:ore_dict","ore": "ingotGold"}
+{"type": "forge:ore_dict","ore": "gemDiamond"}
+{"type": "microblockcbe:micro_material","factory": "face","size": 2,"material": {"block": "minecraft:diamond_block"}}
+{"type": "microblockcbe:micro_material","factory": "edge","size": 2,"material": {"block": "minecraft:iron_block"}}
+{"type": "forge:ore_dict","ore": "gemEmerald"}
