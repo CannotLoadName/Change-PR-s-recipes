@@ -1,6 +1,5 @@
 {"type": "forge:ore_dict","ore": "ingotCopper"}
 {"type": "forge:ore_dict","ore": "blockCopper"}
 {"type": "forge:ore_dict","ore": "ingotTin"}
-{"type": "forge:ore_dict","ore": "blockTin"}
-{"type": "forge:ore_dict","ore": "ingotIron"}
+{"type": "microblockcbe:micro_material","factory": "face","size": 2,"material": {"block": "projectred-exploration:stone","meta":9}}
 {"type": "forge:ore_dict","ore": "ingotSilver"}
